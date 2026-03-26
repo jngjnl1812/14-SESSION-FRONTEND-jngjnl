@@ -1,0 +1,30 @@
+body {
+    background-color: aliceblue;
+    padding: 30px;
+    font-family: "NanumGothic", "Dotum", sans-serif;
+}
+
+.name {
+    color:black;
+    text-align: center;
+    border: 2px solid black;
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2);
+    padding: 10px 20px;
+}
+
+.school, .part, .student-id {
+    text-align: right;
+    line-height: 15px;
+}
+
+.title {
+    font-weight: bold;
+    color: darkblue;          /* 제목만 파란색으로 포인트 */
+    margin-top: 20px;
+    border-bottom: 1px solid #ccc; /* 밑줄을 그어 구분을 줌 */
+    width: 100px;             /* 밑줄 길이 조절 */
+}
+
+.link-section {
+    text-align: center;
+}
