@@ -1,4 +1,4 @@
-햐---
+
 name: default issue template 
 about: 디폴트 템플릿입니다. 추후에는 feat, fix, chore등 기능별 이슈 템플릿을 따로 저장해두어도 좋습니다.
 title: '[Prefix] 제목 작성'
